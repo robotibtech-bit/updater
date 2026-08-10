@@ -4,10 +4,10 @@
                      "appId":  "ib-library",
                      "displayName":  "IB 도서관 안내",
                      "packageName":  "com.example.ibtech",
-                     "versionCode":  2,
-                     "versionName":  "1.0-20260810.1318",
-                     "apkUrl":  "https://github.com/robotibtech-bit/IB/releases/download/v1.0-20260810.1318/ib-library-1.0-20260810.1318.apk",
-                     "releaseNote":  "행사 URL 인앱 웹뷰, 도서관 예절/책 추천 게임화, 퀴즈 이미지 슬롯 추가, 관리자 음량 고정 기능"
+                     "versionCode":  3,
+                     "versionName":  "1.0-20260810.1525",
+                     "apkUrl":  "https://github.com/robotibtech-bit/IB/releases/download/v1.0-20260810.1525/ib-library-1.0-20260810.1525.apk",
+                     "releaseNote":  "버전 상향 테스트 (업데이트 가능 상태 확인용)"
                  }
              ]
 }
