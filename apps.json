@@ -4,10 +4,10 @@
                      "appId":  "ib-library",
                      "displayName":  "IB 도서관 안내",
                      "packageName":  "com.example.ibtech",
-                     "versionCode":  3,
-                     "versionName":  "1.0-20260810.1525",
-                     "apkUrl":  "https://github.com/robotibtech-bit/IB/releases/download/v1.0-20260810.1525/ib-library-1.0-20260810.1525.apk",
-                     "releaseNote":  "버전 상향 테스트 (업데이트 가능 상태 확인용)"
+                     "versionCode":  4,
+                     "versionName":  "1.0-20260811.1754",
+                     "apkUrl":  "https://github.com/robotibtech-bit/IB/releases/download/v1.0-20260811.1754/ib-library-1.0-20260811.1754.apk",
+                     "releaseNote":  "퀴즈 200문제 스마트 보기, 도서관 예절 이미지 30장 교정본 전면 교체, 앱 이름/파일명 변경 등 안정화"
                  }
              ]
 }
