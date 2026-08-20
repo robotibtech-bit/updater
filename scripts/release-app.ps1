@@ -91,7 +91,7 @@ $catalogPath = Join-Path $UpdaterRepoDir "apps.json"
 if (-not (Test-Path $catalogPath)) { Fail "apps.json을 찾을 수 없습니다: $catalogPath" }
 Write-Host "-- 카탈로그 갱신 중... ($catalogPath)"
 
-$catalog = Get-Content $catalogPath -Raw | ConvertFrom-Json
+$catalog = Get-Content $catalogPath -Raw -Encoding utf8 | ConvertFrom-Json
 $appsList = New-Object System.Collections.ArrayList
 if ($catalog.apps) { foreach ($a in $catalog.apps) { [void]$appsList.Add($a) } }
 
