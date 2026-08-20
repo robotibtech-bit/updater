@@ -4,10 +4,10 @@
                      "appId":  "ib-library",
                      "displayName":  "IB 도서관 안내",
                      "packageName":  "com.example.ibtech",
-                     "versionCode":  6,
-                     "versionName":  "1.0-20260820.1434",
-                     "apkUrl":  "https://github.com/robotibtech-bit/IB/releases/download/v1.0-20260820.1434/ib-library-1.0-20260820.1434.apk",
-                     "releaseNote":  "POI 실제 이동 목적지(연결통로/엘리베이터) 관리자 지정 기능, 기본 시설 층수·방향 데이터 보강, 안내도 이미지 캐싱 최적화"
+                     "versionCode":  7,
+                     "versionName":  "1.0-20260820.1448",
+                     "apkUrl":  "https://github.com/robotibtech-bit/IB/releases/download/v1.0-20260820.1448/ib-library-1.0-20260820.1448.apk",
+                     "releaseNote":  "도서 검색·서가 안내 화면 추가, 음성 대화(ASR) 기반 추가, 도서검색 서버 연동"
                  }
              ]
 }
