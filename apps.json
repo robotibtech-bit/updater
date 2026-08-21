@@ -4,10 +4,10 @@
                      "appId":  "ib-library",
                      "displayName":  "IB 도서관 안내",
                      "packageName":  "com.example.ibtech",
-                     "versionCode":  7,
-                     "versionName":  "1.0-20260820.1448",
-                     "apkUrl":  "https://github.com/robotibtech-bit/IB/releases/download/v1.0-20260820.1448/ib-library-1.0-20260820.1448.apk",
-                     "releaseNote":  "도서 검색·서가 안내 화면 추가, 음성 대화(ASR) 기반 추가, 도서검색 서버 연동"
+                     "versionCode":  8,
+                     "versionName":  "1.0-20260821.1041",
+                     "apkUrl":  "https://github.com/robotibtech-bit/IB/releases/download/v1.0-20260821.1041/ib-library-1.0-20260821.1041.apk",
+                     "releaseNote":  "책 찾기 검색 서버 콜드 스타트 대기 문제 개선(주기적 예열 + 자동 재시도)"
                  }
              ]
 }
